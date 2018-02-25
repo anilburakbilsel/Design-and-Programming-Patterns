@@ -1,7 +1,5 @@
 ## Design and Programming Patterns
 
-
-
 In this repo, I will be sharing some commonly used design and programming patterns used
 in the programming. 
 
